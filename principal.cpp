@@ -1,4 +1,5 @@
 #include <iostream>
+#include "MisArchivos\\funciones.cpp"
 
 using namespace std;
 
